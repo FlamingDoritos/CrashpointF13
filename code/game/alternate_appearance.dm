@@ -180,3 +180,5 @@ datum/atom_hud/alternate_appearance/basic/onePerson
 	..(key, I, FALSE)
 	seer = M
 	add_hud_to(seer)
+
+test
